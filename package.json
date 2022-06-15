@@ -2,7 +2,7 @@
     "name": "simple-light-bw",
     "displayName": "Simple Light Black White",
     "description": "some description",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "mujdecisy",
     "engines": {
         "vscode": "^1.68.0"
