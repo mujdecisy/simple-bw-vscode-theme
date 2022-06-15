@@ -1,0 +1,30 @@
+{
+    "name": "simple-light",
+    "displayName": "Simple Light",
+    "description": "some description",
+    "version": "0.0.1",
+    "publisher": "mujdecisy",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "simple",
+        "light",
+        "black white",
+        "mujdecisy"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mujdecisy/simple-light-theme"
+    },
+    "contributes": {
+        "themes": [{
+            "label": "simple-light",
+            "uiTheme": "vs",
+            "path": "./themes/simple-light-color-theme.json"
+        }]
+    }
+}
