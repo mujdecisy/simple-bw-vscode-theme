@@ -1,6 +1,6 @@
 {
-    "name": "simple-light",
-    "displayName": "Simple Light",
+    "name": "simple-light-bw",
+    "displayName": "Simple Light Black White",
     "description": "some description",
     "version": "0.0.1",
     "publisher": "mujdecisy",
@@ -14,6 +14,7 @@
         "simple",
         "light",
         "black white",
+        "bw",
         "mujdecisy"
     ],
     "repository": {
@@ -22,7 +23,7 @@
     },
     "contributes": {
         "themes": [{
-            "label": "simple-light",
+            "label": "simple-light-bw",
             "uiTheme": "vs",
             "path": "./themes/simple-light-color-theme.json"
         }]
