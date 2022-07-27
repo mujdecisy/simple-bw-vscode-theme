@@ -1,64 +1,68 @@
 {
 	"name": "simple-light",
 	"colors": {
-		"activityBar.activeBackground": "#efefef",
-		"activityBar.activeBorder": "#000",
-		"activityBar.background": "#efefef",
-		"activityBar.foreground": "#000",
-		"activityBar.inactiveForeground": "#000",
-		"activityBarBadge.background": "#ebeb0f",
-		"activityBarBadge.foreground": "#000",
-		"button.background": "#efefef",
-		"button.foreground": "#000",
-		"descriptionForeground": "#000",
-		"editor.background": "#efefef",
-		"editor.findMatchBackground": "#ebeb0f",
-		"editor.findMatchHighlightBackground" : "#ebeb0f",
-		"editor.foreground": "#000",
-		"editor.lineHighlightBackground": "#dedede",
-		"editor.selectionBackground": "#ebeb0f",
-		"editor.selectionHighlightBackground": "#ebeb0f",
-		"editorBracketHighlight.foreground1": "#000",
-		"editorBracketHighlight.foreground2": "#000",
-		"editorBracketHighlight.foreground3": "#000",
-		"editorBracketHighlight.foreground4": "#000",
-		"editorBracketHighlight.foreground5": "#000",
-		"editorGroupHeader.tabsBackground": "#efefef",
-		"editorLineNumber.foreground": "#000",
-		"focusBorder": "#efefef",
-		"gitDecoration.addedResourceForeground": "#000",
-		"gitDecoration.conflictingResourceForeground": "#000",
-		"gitDecoration.ignoredResourceForeground": "#000",
-		"gitDecoration.modifiedResourceForeground": "#000",
-		"gitDecoration.renamedResourceForeground": "#000",
-		"gitDecoration.stageDeletedResourceForeground": "#000",
-		"gitDecoration.stageModifiedResourceForeground": "#000",
-		"gitDecoration.submoduleResourceForeground": "#000",
-		"gitDecoration.untrackedResourceForeground": "#000",
-		"list.activeSelectionBackground": "#dadada",
-		"list.activeSelectionForeground": "#000",
-		"list.activeSelectionIconForeground": "#000",
-		"list.highlightForeground": "#000",
-		"list.hoverBackground": "#dadada",
-		"list.inactiveSelectionBackground": "#efefef",
-		"list.inactiveSelectionIconForeground": "#000",
-		"panel.background": "#efefef",
-		"sideBar.background": "#efefef",
-		"sideBar.foreground": "#000",
-		"sideBarSectionHeader.foreground": "#000",
-		"sideBarTitle.foreground": "#000",
-		"tab.activeForeground": "#000",
-		"tab.border":"#e5e5e5",
-		"tab.inactiveBackground": "#efefef",
-		"tab.activeBackground": "#e5e5e5",
-		"textLink.foreground": "#000",
-		"titleBar.activeBackground": "#efefef",
-		"titleBar.activeForeground": "#000",
-		"titleBar.inactiveBackground": "#efefef",
-		"titleBar.inactiveForeground": "#000",
-		"toolbar.activeBackground": "#efefef",
-		"toolbar.hoverBackground": "#efefef",
-		
+		"activityBar.activeBorder" : "#eeeeee",
+		"activityBar.foreground" : "#eeeeee",
+		"activityBar.inactiveForeground" : "#eeeeee",
+		"activityBarBadge.foreground" : "#eeeeee",
+		"button.foreground" : "#eeeeee",
+		"descriptionForeground" : "#eeeeee",
+		"editor.foreground" : "#eeeeee",
+		"editorBracketHighlight.foreground1" : "#eeeeee",
+		"editorBracketHighlight.foreground2" : "#eeeeee",
+		"editorBracketHighlight.foreground3" : "#eeeeee",
+		"editorBracketHighlight.foreground4" : "#eeeeee",
+		"editorBracketHighlight.foreground5" : "#eeeeee",
+		"editorLineNumber.foreground" : "#eeeeee",
+		"gitDecoration.addedResourceForeground" : "#eeeeee",
+		"gitDecoration.conflictingResourceForeground" : "#eeeeee",
+		"gitDecoration.ignoredResourceForeground" : "#eeeeee",
+		"gitDecoration.modifiedResourceForeground" : "#eeeeee",
+		"gitDecoration.renamedResourceForeground" : "#eeeeee",
+		"gitDecoration.stageDeletedResourceForeground" : "#eeeeee",
+		"gitDecoration.stageModifiedResourceForeground" : "#eeeeee",
+		"gitDecoration.submoduleResourceForeground" : "#eeeeee",
+		"gitDecoration.untrackedResourceForeground" : "#eeeeee",
+		"list.activeSelectionForeground" : "#eeeeee",
+		"list.activeSelectionIconForeground" : "#eeeeee",
+		"list.highlightForeground" : "#eeeeee",
+		"list.inactiveSelectionIconForeground" : "#eeeeee",
+		"sideBar.foreground" : "#eeeeee",
+		"sideBarSectionHeader.foreground" : "#eeeeee",
+		"sideBarTitle.foreground" : "#eeeeee",
+		"tab.activeForeground" : "#eeeeee",
+		"textLink.foreground" : "#eeeeee",
+		"titleBar.activeForeground" : "#eeeeee",
+		"titleBar.inactiveForeground" : "#eeeeee",
+		"panelTitle.activeForeground" : "#eeeeee",
+		"editorCursor.foreground" : "#eeeeee",
+		"terminal.foreground" : "#cccccc",
+		"list.activeSelectionBackground" : "#555555",
+		"list.hoverBackground" : "#555555",
+		"editor.lineHighlightBackground" : "#3a3a3a",
+		"tab.activeBackground" : "#333333",
+		"tab.border" : "#333333",
+		"editorHoverWidget.background" : "#333333",
+		"activityBarBadge.background" : "#a7a701",
+		"editor.findMatchBackground" : "#a7a701",
+		"editor.findMatchHighlightBackground" : "#a7a701",
+		"editor.selectionBackground" : "#a7a701",1
+		"editor.selectionHighlightBackground" : "#a7a701",
+		"editorLineNumber.activeForeground": "#a7a701",
+		"activityBar.background" : "#222222",
+		"button.background" : "#222222",
+		"editor.background" : "#222222",
+		"editorGroupHeader.tabsBackground" : "#222222",
+		"focusBorder" : "#222222",
+		"list.inactiveSelectionBackground" : "#222222",
+		"panel.background" : "#222222",
+		"sideBar.background" : "#222222",
+		"tab.inactiveBackground" : "#222222",
+		"titleBar.activeBackground" : "#222222",
+		"titleBar.inactiveBackground" : "#222222",
+		"toolbar.activeBackground" : "#222222",
+		"toolbar.hoverBackground" : "#222222",
+        "activityBar.activeBackground" : "#222222",
 	},
 	"tokenColors": [
 		{
@@ -69,7 +73,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -77,7 +81,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -88,21 +92,21 @@
 			],
 			"settings": {
 				"fontStyle": "italic underline",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Invalid - Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -112,7 +116,7 @@
 				"storage"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -122,7 +126,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -133,7 +137,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -143,7 +147,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -154,7 +158,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -166,14 +170,14 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Exceptions",
 			"scope": "entity.name.exception",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -191,42 +195,42 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Strings: Regular Expressions",
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -238,7 +242,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -250,14 +254,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -268,7 +272,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -278,7 +282,7 @@
 				"punctuation.definition.entity"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -290,7 +294,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -300,7 +304,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -311,7 +315,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -325,14 +329,14 @@
 			"name": "Markup: Changed",
 			"scope": "markup.changed",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Markup: Deletion",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -346,21 +350,21 @@
 			"name": "Markup: Error",
 			"scope": "markup.error",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Markup: Insertion",
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Markup: Link",
 			"scope": "meta.link",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -370,21 +374,21 @@
 				"markup.raw"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Markup: Prompt",
 			"scope": "markup.prompt",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Markup: Heading",
 			"scope": "markup.heading",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -398,7 +402,7 @@
 			"name": "Markup: Traceback",
 			"scope": "markup.traceback",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -412,14 +416,14 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Markup Lists",
 			"scope": "markup.list",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -429,7 +433,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -437,7 +441,7 @@
 			"scope": "markup.inline.raw",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
@@ -448,21 +452,21 @@
 				"meta.separator"
 			],
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Extra: Diff From",
 			"scope": "meta.diff.header.from-file",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		},
 		{
 			"name": "Extra: Diff To",
 			"scope": "meta.diff.header.to-file",
 			"settings": {
-				"foreground": "#000"
+				"foreground": "#eeeeee"
 			}
 		}
 	]
