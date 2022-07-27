@@ -46,7 +46,7 @@
 		"activityBarBadge.background" : "#a7a701",
 		"editor.findMatchBackground" : "#a7a701",
 		"editor.findMatchHighlightBackground" : "#a7a701",
-		"editor.selectionBackground" : "#a7a701",1
+		"editor.selectionBackground" : "#a7a701",
 		"editor.selectionHighlightBackground" : "#a7a701",
 		"editorLineNumber.activeForeground": "#a7a701",
 		"activityBar.background" : "#222222",

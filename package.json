@@ -2,7 +2,7 @@
     "name": "simple-light-bw",
     "displayName": "Simple Black White Theme",
     "description": "simple bw and wb themes",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "mujdecisy",
     "engines": {
         "vscode": "^1.68.0"
