@@ -2,7 +2,7 @@
     "name": "simple-light-bw",
     "displayName": "Simple Black White Theme",
     "description": "simple bw and wb themes",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "mujdecisy",
     "engines": {
         "vscode": "^1.68.0"
@@ -21,17 +21,17 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/mujdecisy/simple-light-theme"
+        "url": "https://github.com/mujdecisy/simple-bw-vscode-theme"
     },
     "contributes": {
         "themes": [
             {
-                "label": "simple-light-bw",
+                "label": "Simple BW Light",
                 "uiTheme": "vs",
                 "path": "./themes/simple-light-color-theme.json"
             },
             {
-                "label": "simple-dark-bw",
+                "label": "Simple BW Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/simple-dark-color-theme.json"
             }
